@@ -1,2 +1,2 @@
 # odin-project-landing-page
-awesome landing page ;) 
+awesome landing page 😉
